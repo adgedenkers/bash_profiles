@@ -19,10 +19,10 @@ GITHUBUSER="adgedenkers"
 
 # ----- Adge's GitLab Account
 # GitLab Username
-GITLABUSER="adge@vaftl.us"
+GITLABUSER=""
 
 # GitLab Password
-GITLABPASS="Sh4pley607*"
+GITLABPASS=""
 
 # ----- Adge's AWS Keys
 # This is published by a secret script that houses the two AWS keys. 
@@ -54,9 +54,6 @@ export NVM_DIR="$HOME/.nvm"
 # My Private Directory
 p="$HOME/.ahd"
 alias :p="cd $p"
-
-# My Private Directory
-p="$HOME/.ahd"
 alias :private="cd $p"
 
 # Keys Directory
